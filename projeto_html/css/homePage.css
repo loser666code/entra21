@@ -1,0 +1,21 @@
+.menu {
+    width: 25%;
+    background-color: black;
+    overflow: auto;
+    margin: auto;
+}
+.menu a {
+    float: left;
+    text-align: center;
+    width: 30%;
+    padding: 12px 0;
+    color: rgb(255, 0, 170);
+    font-size: 25px;
+}
+.menu a:hover{
+    background-color: rgb(255, 0, 170);
+    color: black;
+}
+.ativo {
+    background-color: rgb(255, 125, 238);
+}
